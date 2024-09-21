@@ -1,8 +1,6 @@
 # 云墨UI - Readme
 
-> [!CAUTION]
->
-> 请认真阅读 <b>云墨UI - Readme</b>
+![image](https://github.com/user-attachments/assets/06e40b00-8143-4e2c-bb25-7b02cd6d7cc5)
 
 匠心独运，寓灵动于毫端。轻盈若飘云，沉稳如墨迹。一画一符，皆蕴匠心；一笔一划，尽显风采。君子所好，不亦宜乎？
 
